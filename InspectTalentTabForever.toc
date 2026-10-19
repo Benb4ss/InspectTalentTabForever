@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: InspectTalentTabForever
+## Notes: Restores the original 'View Talents' tab to the player Inspect frame.
+## Author: Benbass
+## IconAtlas: UI-HUD-MicroMenu-SpecTalents-Up
+## Category: Unit Frames
+
+
+InspectTalentTabForever.lua
