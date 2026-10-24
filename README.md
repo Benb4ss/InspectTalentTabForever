@@ -1,4 +1,4 @@
 # InspectTalentTabForever
-Restores the original 'View Talents' tab to the player Inspect frame.
+Restores the original 'View Talents' tab to the target player Inspect frame.
 
-![screenshot](Screenshot.png)
+![screenshot](Screenshots\Screenshot.png)
